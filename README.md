@@ -1,6 +1,6 @@
 # Bubbles! 
 
-Educational Patatap clone project.
+Educational <a href="https://www.patatap.com/">Patatap clone</a> project.
 
 ## Technologies involved:
 * Howler.js - JavaScript audio library;
